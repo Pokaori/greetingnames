@@ -1,1 +1,1 @@
-gunicorn = gunicorn -w 3 names.wsgi
+gunicorn = gunicorn  names.wsgi
