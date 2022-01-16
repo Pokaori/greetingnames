@@ -1,0 +1,11 @@
+#greeting_text{
+    height:80px;
+    width:400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#ddd;
+}
+#form-box{
+margin-top:1%;
+}
