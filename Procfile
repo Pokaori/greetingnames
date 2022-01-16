@@ -1,1 +1,1 @@
-gunicorn = gunicorn  names.wsgi
+web = gunicorn  names.wsgi
