@@ -36,7 +36,16 @@ $ pip install -r requirements.txt
 $ python manage.py makemigrations
 $ python manage.py migrate
 ```
-## Run 
+## Add .env
+- Create .env file
+```console
+$ touch .env
+```
+- Add environment variable for your database
+```shell
+DATABASE_URL = {Your database}
+```
+## Run
 To run project you need execute the following command: 
 ```console
 $ python manage.py runserver
