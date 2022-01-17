@@ -12,12 +12,12 @@ $ sudo pip install virtualenv
 ## Install
 - Clone this repository:
 ```console
-$ git clone https://github.com/Pokaori/test_carpark.git
-$ cd test_carpark
+$ git clone https://github.com/Pokaori/greetingnames.git
+$ cd greetingnames
 ```
 or you can download project ZIP, extract it and enter the folder:
 ```console
-$ cd test_carpark
+$ cd greetingnames
 ```
 - Create virtual environment with virtualenv:
 ```console
