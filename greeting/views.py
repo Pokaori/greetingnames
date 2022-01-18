@@ -25,3 +25,4 @@ class Greeting(View):
 class NamesListView(ListView):
     template_name = 'names_list.html'
     queryset = Names.objects.all()
+    paginate_by = 15
